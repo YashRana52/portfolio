@@ -8,25 +8,25 @@ import Contact from "../components/contact/Contact";
 import Footer from "../components/layout/Footer";
 
 const Home = () => {
-    return (
-        <>
-            <Navbar />
+  return (
+    <>
+      <Navbar />
 
-            <Hero />
+      <Hero />
 
-            <Skills />
+      <Projects />
 
-            <Projects />
+      <Skills />
 
-            <Expertise />
+      <Expertise />
 
-            <Journey />
+      <Journey />
 
-            <Contact />
+      <Contact />
 
-            <Footer />
-        </>
-    );
+      <Footer />
+    </>
+  );
 };
 
 export default Home;
