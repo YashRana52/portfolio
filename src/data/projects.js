@@ -20,7 +20,7 @@ export const projects = [
 
     github: "https://github.com/YashRana52/appointment-Booking",
 
-    live: "https://appointment-booking-plum.vercel.app",
+    live: "https://doctor-booking-plateform.vercel.app",
   },
 
   {
