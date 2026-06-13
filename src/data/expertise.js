@@ -1,3 +1,4 @@
+
 import {
     ShieldCheck,
     Database,
@@ -9,28 +10,28 @@ import {
 
 export const expertise = [
     {
-        title: "Authentication Systems",
+        title: "Authentication & Security",
 
         description:
-            "JWT authentication, refresh tokens, RBAC, protected routes, and session management.",
+            "Built secure authentication systems using JWT, refresh tokens, RBAC, protected routes, session handling, and role-based access control for scalable applications.",
 
         icon: ShieldCheck,
     },
 
     {
-        title: "Redis Architecture",
+        title: "Database Engineering",
 
         description:
-            "Caching, token blacklisting, rate limiting, Pub/Sub, and scalable session storage.",
+            "Experienced with MongoDB Aggregation Pipelines, Advanced SQL, PostgreSQL, MySQL, indexing, query optimization, and scalable database design.",
 
         icon: Database,
     },
 
     {
-        title: "API Engineering",
+        title: "Backend API Architecture",
 
         description:
-            "Scalable REST APIs with validation, middleware architecture, and error handling.",
+            "Designed scalable REST APIs with modular architecture, middleware systems, validation layers, error handling, caching, and reusable backend services.",
 
         icon: Server,
     },
@@ -39,26 +40,27 @@ export const expertise = [
         title: "Real-Time Systems",
 
         description:
-            "Socket.io based messaging, online presence, notifications, and event systems.",
+            "Developed Socket.io based real-time applications including messaging systems, live notifications, online presence tracking, and event-driven workflows.",
 
         icon: Activity,
     },
 
     {
-        title: "Backend Scalability",
+        title: "Performance & Scalability",
 
         description:
-            "Modular architecture, reusable services, optimized queries, and clean backend structure.",
+            "Worked on backend performance optimization using Redis caching, rate limiting, optimized queries, aggregation pipelines, and scalable architecture patterns.",
 
         icon: Cpu,
     },
 
     {
-        title: "System Design",
+        title: "Full-Stack SaaS Development",
 
         description:
-            "Multi-tenant systems, role isolation, workflow architecture, and database relationships.",
+            "Built production-grade SaaS platforms with multi-role workflows, admin dashboards, real-time collaboration systems, and scalable frontend-backend architecture.",
 
         icon: Layers3,
     },
 ];
+
